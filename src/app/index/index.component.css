@@ -1,0 +1,20 @@
+.login{
+  display:none;
+  position: absolute;
+  width:70%;
+  margin: 0 15%;
+  background-color: #eee;
+  padding: 25px;
+  border-radius: 10px;
+}
+.login form{
+  position: relative;
+}
+.login span.glyphicon{
+  position: absolute;
+  right: 10px;
+  top:10px;
+}
+.login p{
+  padding-top: 10px;
+}
